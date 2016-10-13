@@ -1,10 +1,9 @@
 # DesingPatterns
 
-<h1>DesingPatterns</h1>
-
 <h2>Creational Design Patterns</h2>
 
-<h3>Singleton (antypattern)</h3>
+<h3>Singleton (antipattern)</h3>
+
 <a href="github">Singleton</a>
 <a href="github">Singleton Class Vendor</a>
 <a href="github">Singleton Traits</a>
