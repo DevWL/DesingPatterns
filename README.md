@@ -4,17 +4,17 @@
 
 ><h3>Singleton (antipattern)</h3>
 
-- <a href="github">Singleton</a>
-- <a href="github">Singleton Class Vendor</a>
-- <a href="github">Singleton Traits</a>
+- <a href="https://github.com/DevWL/singleton">Singleton</a>
+- <a href="https://github.com/DevWL/SingletonClassVendor">Singleton Class Vendor</a>
+- <a href="https://github.com/DevWL/singleton-on-traits">Singleton Traits</a>
 
 ><h3>Factory</h3>
 
-- <a href="github">Factory Method</a>
-- <a href="github">Factory</a>
-- <a href="github">Abstract Factory</a>
-- <a href="github">Static Factory</a>
+- <a href="https://github.com/DevWL/factory-method">Factory Method</a>
+- <a href="https://github.com/DevWL/simple-factory">Factory</a>
+- <a href="https://github.com/DevWL/abstract-factory">Abstract Factory</a>
+- <a href="https://github.com/DevWL/static-factory">Static Factory</a>
 
 ><h3>Registry Pattern</h3>
 
-- <a href="github">Registry</a>
+- <a href="https://github.com/DevWL/xxxxx">Registry</a>
